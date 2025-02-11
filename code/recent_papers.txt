@@ -1,0 +1,6 @@
+Image, Text, and Speech Data Augmentation using Multimodal LLMs for Deep
+  Learning: A Survey
+Ranjan Sapkota, Shaina Raza, Maged Shoman, Achyut Paudel, Manoj Karkee
+2025-01-29T16:38:57Z
+http://arxiv.org/abs/2501.18648v1
+
